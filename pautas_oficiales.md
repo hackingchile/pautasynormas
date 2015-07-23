@@ -46,7 +46,6 @@ publicación de este tipo la siguiente pauta:
 **Pauta de Oferta Laboral**
 
 
-
      Nombre empresa:
 
      Resumen Introducción empresa (opcional):
