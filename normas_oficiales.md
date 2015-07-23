@@ -3,7 +3,6 @@ Normas y Pautas
 
 Estas Reglas fueros diseñadas para darle una estructura a la comunidad con el fin de mantener un orden frente a la diversidad de temas que hoy estamos trabajando.
 
-
 1.- **Filosofía de la Comunidad**:
 
 La filosofía que desea adoptar Hacking Chile, es principalmente el cómo mitigar las vulnerabilidades que existen hoy en día,
