@@ -26,12 +26,12 @@ administradores debido a que el objetivo es mantener la comunidad funcionando en
 a los distintos miembros con consultas y aportes en el ámbito que nos atañe. Publicaciones de este estilo serán borradas
 sin previo aviso a menos que haya una organización con el staff.
 
-4.- **Publicaciones No Relacionadas con la temática de la Comunidad**:
+5.- **Publicaciones No Relacionadas con la temática de la Comunidad**:
 
 En relación al punto anterior, no se permitirá dentro de la comunidad alguna publicación que no esté dentro del ámbito
 de la Seguridad Informática, Programación para Pentesting, Redes Informáticas, Vulnerabilidades.
 
-5.- **Publicaciones Relacionadas con Consultas y Dudas**:
+6.- **Publicaciones Relacionadas con Consultas y Dudas**:
 
 La comunidad está dispuesta, tanto el staff de administradores como los mismos miembros, a apoyar y contestar 
 todas sus dudas y consultas con temas de Seguridad Informática. 
